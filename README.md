@@ -1,7 +1,7 @@
 # Hi there, I'm Shao Zhi! 👋
 * 👂 My name is **Soong Shao Zhi**
 * 🔭 I'm currently working on **CodingTheGo (mobile coding app) and SaveSpot (social content saving app)**
-* * ❤️ I love **building innovative real world tech solutions**
+* ❤️ I love **solving real world pain points by building innovative tech solutions**
 * 🌱 I'm currently learning **AI integration, machine learning frameworks, and advanced full-stack development**
 * 💬 Ask me about **building innovative solutions, full-stack development, or startup ideas**
 * 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/soongshaozhi/) | soongshaozhi@gmail.com**
