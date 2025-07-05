@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShaoZhi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShaoZhi21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoZhi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Snake animation](https://github.com/ShaoZhi21/ShaoZhi21/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=ShaoZhi21&icon=0&color=0)](https://visitcount.itsvg.in)
 
