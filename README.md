@@ -9,13 +9,6 @@ I'm a **Year 2 Computer Science student** at the **National University of Singap
 - **CodeOnTheGo** - Mobile coding application with LeetCode-style pseudocode functionality
 - **SaveSpot** - Social content saver & trip planning app with location-based features
 
-## 🏆 Competition Achievements
-
-### Asian Business Plan Competition 2025 - 1st Runner-Up 🥈
-
-### DSTA BrainHack 2025 - Dare To Try Award 🏅
-
-
 ## 🌟 What Drives Me
 
 I'm deeply passionate about the **startup ecosystem** and believe in the power of technology to transform industries. My focus is on:
@@ -25,9 +18,6 @@ I'm deeply passionate about the **startup ecosystem** and believe in the power o
 - **Entrepreneurial Mindset**: Approaching every project with a business perspective, considering scalability and market impact
 
 Always open to discussing startup ideas, collaboration opportunities, or just chatting about the latest in tech! 🚀
-
-## 📊 GitHub Stats
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soongshaozhi/) 
