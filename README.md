@@ -12,19 +12,9 @@ I'm a **Year 2 Computer Science student** at the **National University of Singap
 ## 🏆 Competition Achievements
 
 ### Asian Business Plan Competition 2025 - 1st Runner-Up 🥈
-- **Represented NUS** at NTHU in Taiwan, competing in AIoT and Edge AI solutions
-- Developed **Secretary AI** to streamline CRM data entry and enhance customer profiling
-- Competed alongside teams from HKUST and NTHU
 
 ### DSTA BrainHack 2025 - Dare To Try Award 🏅
-- Developed **LoveScan** - AI-powered relationship insights app using Claude
-- **Received the Dare To Try Award** for innovative app development
 
-## 💻 Technical Skills
-
-**Languages:** Java, JavaScript, TypeScript, Python, MySQL, HTML, CSS  
-**Frameworks:** React, React Native, Next.js, Node.js, Express.js, Tailwind CSS, spaCy, GloVe  
-**Tools:** Git/GitHub, Vim, Expo Go, Google Cloud Vision, Supabase, Postman, Figma
 
 ## 🌟 What Drives Me
 
@@ -33,12 +23,6 @@ I'm deeply passionate about the **startup ecosystem** and believe in the power o
 - **Building Solutions That Matter**: Creating applications that address real business challenges and user pain points
 - **Innovation Through AI**: Leveraging artificial intelligence to automate processes and unlock new possibilities
 - **Entrepreneurial Mindset**: Approaching every project with a business perspective, considering scalability and market impact
-
-## 📫 Let's Connect!
-
-- 💼 LinkedIn: [linkedin.com/in/soongshaozhi](https://www.linkedin.com/in/soongshaozhi/)
-- 🐙 GitHub: [github.com/ShaoZhi21](https://github.com/ShaoZhi21)
-- 📧 Email: soongshaozhi@gmail.com
 
 Always open to discussing startup ideas, collaboration opportunities, or just chatting about the latest in tech! 🚀
 
