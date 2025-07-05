@@ -1,4 +1,4 @@
-# Hi there, I'm Soong Shao Zhi! 👋
+# Hi there, I'm Shao Zhi! 👋
 
 ## 🎓 About Me
 
