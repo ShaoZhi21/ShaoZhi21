@@ -4,6 +4,8 @@
 
 I'm a **Year 2 Computer Science student** at the **National University of Singapore (NUS)**. I'm passionate about the startup ecosystem and building innovative tech solutions that solve real-world problems.
 
+As a **full-stack developer**, I specialize in both **web and mobile app development**, and I love **dabbling with AI integration** to create smarter, more efficient solutions.
+
 ## 🚀 Current Projects
 
 - **CodeOnTheGo** - Mobile coding application with LeetCode-style pseudocode functionality
