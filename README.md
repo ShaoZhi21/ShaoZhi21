@@ -1,12 +1,10 @@
 # Hi there, I'm Shao Zhi! 👋
-### Hi there 👋
 * 👂 My name is **Soong Shao Zhi**
-* 👨‍💻 Pronouns: **He/Him**
 * 🔭 I'm currently working on **CodingTheGo (mobile coding app) and SaveSpot (social content saving app)**
+* * ❤️ I love **building innovative real world tech solutions**
 * 🌱 I'm currently learning **AI integration, machine learning frameworks, and advanced full-stack development**
 * 💬 Ask me about **building innovative solutions, full-stack development, or startup ideas**
 * 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/soongshaozhi/) | soongshaozhi@gmail.com**
-* ❤️ I love **turning ideas into reality through code and competing in hackathons**
 
 
 # 💻 Tech Stack:
