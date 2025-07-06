@@ -5,7 +5,7 @@
 * 🌱 I'm currently learning **AI integration, machine learning frameworks, and advanced full-stack development**
 * 💬 Ask me about **building innovative solutions, full-stack development, or startup ideas**
 * 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/soongshaozhi/) | soongshaozhi@gmail.com**
-* Here's my portfolio: https://shaozhi.vercel.app/**
+* Here's my portfolio: https://shaozhi.vercel.app/
 
 
 # 💻 Tech Stack:
