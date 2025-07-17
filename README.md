@@ -15,17 +15,17 @@
 
 ### 📱 App Development
 - **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)** | [Demo](https://drive.google.com/file/d/18MHYyOY4YQq3fBP-5f_sGW48bOJpkINO/view)  
-A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking.
+A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking.<br>
 Built for NUS Orbital.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
 - **[SaveSpot](https://github.com/ShaoZhi21/SaveSpotMVP)** | [Demo](https://www.youtube.com/shorts/sw6uQladJdE)  
-A social content-saving app to bookmark, organize, and turn your saved locations into travel plans seamlessly with AI.
+A social content-saving app to bookmark, organize, and turn your saved locations into travel plans seamlessly with AI.<br>
 Passion project.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
 - **[LoveScan](https://github.com/ShaoZhi21/LoveScan)** | [Demo](https://drive.google.com/file/d/18hK6xQD0c7bTzZmx76nKs4xoxx7EVjxH/view?usp=sharing)  
-A mobile app that scans and identifies Love Scams from conversations using NLP models.
+A mobile app that scans and identifies Love Scams from conversations using NLP models.<br>
 Built during DSTA BrainHack 2025, won Dare to Try award.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API, Google Vision OCR
 
