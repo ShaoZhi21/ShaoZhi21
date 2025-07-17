@@ -15,7 +15,7 @@
 
 ### 📱 App Development
 - **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)** | [Demo](https://drive.google.com/file/d/18MHYyOY4YQq3fBP-5f_sGW48bOJpkINO/view)  
-A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking.<br>
+A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking.  
 Built for NUS Orbital.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
