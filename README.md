@@ -15,15 +15,15 @@
 
 ### 📱 App Development
 - **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)** | [Demo](https://drive.google.com/file/d/18MHYyOY4YQq3fBP-5f_sGW48bOJpkINO/view)  
-_A mobile coding app that lets users practice programming on the go. Supports code snippets and learning challenges._  
+_A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking. Built for NUS Orbital._
 **Tech Stack:** React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
 - **[SaveSpot](https://github.com/ShaoZhi21/SaveSpotMVP)** | [Demo](https://www.youtube.com/shorts/sw6uQladJdE)  
-_A social content-saving app to bookmark, organize, and share interesting links and posts with friends._  
+_A social content-saving app to bookmark, organize, and turn your saved locations into travel plans seamlessly with AI. Passion project._  
 **Tech Stack:** React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
 - **[LoveScan](https://github.com/ShaoZhi21/LoveScan)** | [Demo](https://drive.google.com/file/d/18hK6xQD0c7bTzZmx76nKs4xoxx7EVjxH/view?usp=sharing)  
-_A mobile app that scans and identifies love languages from conversations using NLP models._  
+_A mobile app that scans and identifies Love Scams from conversations using NLP models. Built during DSTA BrainHack 2025, won Dare to Try award._  
 **Tech Stack:** React Native, Expo, Node.js, Express.js, Supabase, Gemini API, Google Vision OCR
 
 ---
@@ -34,23 +34,23 @@ _A personal portfolio website showcasing projects, skills, and achievements._
 **Tech Stack:** Next.js, Tailwind CSS
 
 - **[SecretaryAI](https://github.com/ShaoZhi21/SecretaryAI)** | [Demo](https://youtu.be/bMD5L6FeyDw)  
-_An AI-powered virtual secretary that summarizes meetings and manages task lists via smart transcriptions._  
+_An AI-powered virtual secretary that transcribes and extracts key insights to feed into CRMs. Built during Asian Business Plan Competition @ National Taiwan Tsinghua University, won 2nd runner up._  
 **Tech Stack:** Next.js, Tailwind CSS, OpenAI Whisper, OpenAI API
 
 - **[Studypal](https://github.com/Miloepeng/LifeHack)** | [Demo](https://devpost.com/software/studypal-6qzwkv?ref_content=user-portfolio&ref_feature=in_progress)  
-_A web app to help students form study groups based on schedules and subjects. Built during LifeHack 2025._  
+_A web app to help students learn with dynamic questions based on their progress and knowledge gaps. Built during LifeHack 2025._  
 **Tech Stack:** Next.js, Tailwind CSS
 
 - **[Recipe Scanner](https://github.com/ShaoZhi21/RecipeScanner)** | [Demo](https://youtu.be/3-vEGYFs9W8)  
-_A web tool that extracts ingredient lists and steps from recipe images using OCR._  
+_A web tool that extracts leftover ingredient from uploaded images using OCR, retrieve possible recipes to cook and display the steps for cooking. Built during HackoMania 2025._  
 **Tech Stack:** React, HTML, CSS, AWS S3, OpenAI API
 
 - **[Minimart](https://github.com/ShaoZhi21/Minimart)** | [Demo](https://devpost.com/software/2ne2-minimart)  
-_A web-based inventory and ordering system for welfare homes._  
+_A web-based inventory and ordering system for welfare homes. Built during Hack4Good 2025._  
 **Tech Stack:** React, MySQL, Node.js, Express
 
 - **[SZMovies](https://github.com/ShaoZhi21/SZMovies)** | [Live Demo](https://szmovies.netlify.app/)  
-_A simple movie database web app to browse and search for films._  
+_A simple movie database web app to browse and search for movies, displaying details such as movie title, release date, actors, reviews. My first ever project._  
 **Tech Stack:** React, HTMl, CSS
 
   # 📊 GitHub Stats:
