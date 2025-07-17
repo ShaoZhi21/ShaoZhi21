@@ -15,3 +15,32 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ShaoZhi21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoZhi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🚀 Projects
+
+### 📱 App Development
+- **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)**  
+_A mobile coding app that lets users practice programming on the go. Built with React Native, supports code snippets and learning challenges._
+
+- **[SaveSpot](https://github.com/ShaoZhi21/SaveSpotMVP)**  
+_A social content-saving app to bookmark, organize, and share interesting links and posts with friends. Focuses on simplifying knowledge management._
+
+- **[LoveScan](https://github.com/ShaoZhi21/LoveScan)**  
+_A mobile app that scans and identifies love languages from conversations using NLP models. Helps couples understand each other better._
+
+---
+
+### 🌐 Web Development
+- **[Personal Website](https://github.com/ShaoZhi21/PersonalWebsite)** | [Live Demo](https://shaozhi.vercel.app/)  
+_A personal portfolio website showcasing projects, skills, and achievements. Built with Next.js and deployed on Vercel._
+
+- **[Studypal](https://github.com/Miloepeng/LifeHack)**  
+_A web app to help students form study groups based on schedules and subjects. Created during LifeHack 2025 hackathon._
+
+- **[Recipe Scanner](https://github.com/ShaoZhi21/RecipeScanner)**  
+_A web tool that extracts ingredient lists and steps from recipe images using OCR, making it easier to save and follow recipes._
+
+- **[Minimart](https://github.com/ShaoZhi21/Minimart)**  
+_A web-based inventory and ordering system for welfare homes. Helps track stock, manage orders, and automate calculations._
+
+- **[SZMovies](https://github.com/ShaoZhi21/SZMovies)**  
+_A simple movie database web app that allows users to browse and search for films. Built to practice RESTful API integration._
