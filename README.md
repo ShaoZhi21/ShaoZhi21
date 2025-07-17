@@ -18,29 +18,42 @@
 ## 🚀 Projects
 
 ### 📱 App Development
-- **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)**  
-_A mobile coding app that lets users practice programming on the go. Built with React Native, supports code snippets and learning challenges._
+- **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)** | [Demo](https://drive.google.com/file/d/18MHYyOY4YQq3fBP-5f_sGW48bOJpkINO/view)  
+_A mobile coding app that lets users practice programming on the go. Supports code snippets and learning challenges._  
+**Tech Stack:** React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
-- **[SaveSpot](https://github.com/ShaoZhi21/SaveSpotMVP)**  
-_A social content-saving app to bookmark, organize, and share interesting links and posts with friends. Focuses on simplifying knowledge management._
+- **[SaveSpot](https://github.com/ShaoZhi21/SaveSpotMVP)** | [Demo](https://www.youtube.com/shorts/sw6uQladJdE)  
+_A social content-saving app to bookmark, organize, and share interesting links and posts with friends._  
+**Tech Stack:** React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
-- **[LoveScan](https://github.com/ShaoZhi21/LoveScan)**  
-_A mobile app that scans and identifies love languages from conversations using NLP models. Helps couples understand each other better._
+- **[LoveScan](https://github.com/ShaoZhi21/LoveScan)** | [Demo](https://drive.google.com/file/d/18hK6xQD0c7bTzZmx76nKs4xoxx7EVjxH/view?usp=sharing)  
+_A mobile app that scans and identifies love languages from conversations using NLP models._  
+**Tech Stack:** React Native, Expo, Node.js, Express.js, Supabase, Gemini API, Google Vision OCR
 
 ---
 
 ### 🌐 Web Development
 - **[Personal Website](https://github.com/ShaoZhi21/PersonalWebsite)** | [Live Demo](https://shaozhi.vercel.app/)  
-_A personal portfolio website showcasing projects, skills, and achievements. Built with Next.js and deployed on Vercel._
+_A personal portfolio website showcasing projects, skills, and achievements._  
+**Tech Stack:** Next.js, Tailwind CSS
 
-- **[Studypal](https://github.com/Miloepeng/LifeHack)**  
-_A web app to help students form study groups based on schedules and subjects. Created during LifeHack 2025 hackathon._
+- **[SecretaryAI](https://github.com/ShaoZhi21/SecretaryAI)** | [Demo](https://youtu.be/bMD5L6FeyDw)  
+_An AI-powered virtual secretary that summarizes meetings and manages task lists via smart transcriptions._  
+**Tech Stack:** Next.js, Tailwind CSS, OpenAI Whisper, OpenAI API
 
-- **[Recipe Scanner](https://github.com/ShaoZhi21/RecipeScanner)**  
-_A web tool that extracts ingredient lists and steps from recipe images using OCR, making it easier to save and follow recipes._
+- **[Studypal](https://github.com/Miloepeng/LifeHack)** | [Demo](https://devpost.com/software/studypal-6qzwkv?ref_content=user-portfolio&ref_feature=in_progress)  
+_A web app to help students form study groups based on schedules and subjects. Built during LifeHack 2025._  
+**Tech Stack:** Next.js, Tailwind CSS
 
-- **[Minimart](https://github.com/ShaoZhi21/Minimart)**  
-_A web-based inventory and ordering system for welfare homes. Helps track stock, manage orders, and automate calculations._
+- **[Recipe Scanner](https://github.com/ShaoZhi21/RecipeScanner)** | [Demo](https://youtu.be/3-vEGYFs9W8)  
+_A web tool that extracts ingredient lists and steps from recipe images using OCR._  
+**Tech Stack:** React, HTML, CSS, AWS S3, OpenAI API
 
-- **[SZMovies](https://github.com/ShaoZhi21/SZMovies)**  
-_A simple movie database web app that allows users to browse and search for films. Built to practice RESTful API integration._
+- **[Minimart](https://github.com/ShaoZhi21/Minimart)** | [Demo](https://devpost.com/software/2ne2-minimart)  
+_A web-based inventory and ordering system for welfare homes._  
+**Tech Stack:** React, MySQL, Node.js, Express
+
+- **[SZMovies](https://github.com/ShaoZhi21/SZMovies)** | [Live Demo](https://szmovies.netlify.app/)  
+_A simple movie database web app to browse and search for films._  
+**Tech Stack:** React, HTMl, CSS
+
