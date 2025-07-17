@@ -15,18 +15,15 @@
 
 ### 📱 App Development
 - **[CodeOnTheGo](https://github.com/ShaoZhi21/CodeOnTheGo)** | [Demo](https://drive.google.com/file/d/18MHYyOY4YQq3fBP-5f_sGW48bOJpkINO/view)  
-A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking.  
-Built for NUS Orbital.  
+A mobile coding app that lets users practice programming by writing pseudocode while on the go. Includes topical roadmap, pseudocode questions, gamified streaks, AI marking. Built for NUS Orbital.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
 - **[SaveSpot](https://github.com/ShaoZhi21/SaveSpotMVP)** | [Demo](https://www.youtube.com/shorts/sw6uQladJdE)  
-A social content-saving app to bookmark, organize, and turn your saved locations into travel plans seamlessly with AI.<br>
-Passion project.  
+A social content-saving app to bookmark, organize, and turn your saved locations into travel plans seamlessly with AI. Passion project.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API
 
 - **[LoveScan](https://github.com/ShaoZhi21/LoveScan)** | [Demo](https://drive.google.com/file/d/18hK6xQD0c7bTzZmx76nKs4xoxx7EVjxH/view?usp=sharing)  
-A mobile app that scans and identifies Love Scams from conversations using NLP models.<br>
-Built during DSTA BrainHack 2025, won Dare to Try award.  
+A mobile app that scans and identifies Love Scams from conversations using NLP models. Built during DSTA BrainHack 2025, won Dare to Try award.  
 *Tech Stack:* React Native, Expo, Node.js, Express.js, Supabase, Gemini API, Google Vision OCR
 
 ---
@@ -37,28 +34,23 @@ A personal portfolio website showcasing projects, skills, and achievements.
 *Tech Stack:* Next.js, Tailwind CSS
 
 - **[SecretaryAI](https://github.com/ShaoZhi21/SecretaryAI)** | [Demo](https://youtu.be/bMD5L6FeyDw)  
-An AI-powered virtual secretary that transcribes and extracts key insights to feed into CRMs.
-Built during Asian Business Plan Competition @ National Taiwan Tsinghua University, won 1st runner up.  
+An AI-powered virtual secretary that transcribes and extracts key insights to feed into CRMs. Built during Asian Business Plan Competition @ National Taiwan Tsinghua University, won 1st runner up.  
 *Tech Stack:* Next.js, Tailwind CSS, OpenAI Whisper, OpenAI API
 
 - **[Studypal](https://github.com/Miloepeng/LifeHack)** | [Demo](https://devpost.com/software/studypal-6qzwkv?ref_content=user-portfolio&ref_feature=in_progress)  
-A web app to help students learn with dynamic questions based on their progress and knowledge gaps.
-Built during LifeHack 2025.  
+A web app to help students learn with dynamic questions based on their progress and knowledge gaps. Built during LifeHack 2025.  
 *Tech Stack:* Next.js, Tailwind CSS
 
 - **[Recipe Scanner](https://github.com/ShaoZhi21/RecipeScanner)** | [Demo](https://youtu.be/3-vEGYFs9W8)  
-A web tool that extracts leftover ingredient from uploaded images using OCR, retrieve possible recipes to cook and display the steps for cooking.
-Built during HackoMania 2025.  
+A web tool that extracts leftover ingredient from uploaded images using OCR, retrieve possible recipes to cook and display the steps for cooking. Built during HackoMania 2025.  
 *Tech Stack:* React, HTML, CSS, AWS S3, OpenAI API
 
 - **[Minimart](https://github.com/ShaoZhi21/Minimart)** | [Demo](https://devpost.com/software/2ne2-minimart)  
-A web-based inventory and ordering system for welfare homes.
-Built during Hack4Good 2025.  
+A web-based inventory and ordering system for welfare homes. Built during Hack4Good 2025.  
 *Tech Stack:* React, MySQL, Node.js, Express
 
 - **[SZMovies](https://github.com/ShaoZhi21/SZMovies)** | [Live Demo](https://szmovies.netlify.app/)  
-A simple movie database web app to browse and search for movies, displaying details such as movie title, release date, actors, reviews.
-My first ever project.  
+A simple movie database web app to browse and search for movies, displaying details such as movie title, release date, actors, reviews. My first ever project.  
 *Tech Stack:* React, HTML, CSS
 
   # 📊 GitHub Stats:
