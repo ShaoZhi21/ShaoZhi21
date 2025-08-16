@@ -54,7 +54,5 @@ A simple movie database web app to browse and search for movies, displaying deta
 *Tech Stack:* React, HTML, CSS
 
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShaoZhi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShaoZhi21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoZhi21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![ShaoZhi21's Stats](https://github-readme-stats.vercel.app/api?username=ShaoZhi21&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
