@@ -55,4 +55,6 @@ A simple movie database web app to browse and search for movies, displaying deta
 
   # 📊 GitHub Stats:
 ![ShaoZhi21's Stats](https://github-readme-stats.vercel.app/api?username=ShaoZhi21&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![ShaoZhi21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaoZhi21&theme=dark&hide_border=false)
+![ShaoZhi21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoZhi21&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
