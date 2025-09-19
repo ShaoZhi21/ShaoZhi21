@@ -1,6 +1,6 @@
 # Hi there, I'm Shao Zhi! 👋
 * 🎓 I'm a **Year 2 Computer Science** student at **National University of Singapore (NUS)**
-* 🔭 I'm currently working on **CodingTheGo (mobile coding app) and SaveSpot (social content saving app)**
+* 🔭 I'm currently working on **CodeOnTheGo (mobile coding app) and Weave (social content saving app)**
 * ❤️ I love **startups** and solving **real world pain points** by building **innovative tech solutions**
 * 🌱 I'm currently learning **AI integration, machine learning frameworks, and advanced full-stack development**
 * 💬 Ask me about **building innovative solutions, full-stack development, or startup ideas**
